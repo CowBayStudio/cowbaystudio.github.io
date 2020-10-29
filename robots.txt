@@ -1,0 +1,1 @@
+Sitemap: https://vos.line-scdn.net/pty-web-static/test/sitemap_cb.xml
